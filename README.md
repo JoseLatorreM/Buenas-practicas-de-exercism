@@ -1,0 +1,1 @@
+Estare realizando ejercicios de python y en el proceso aprendeere buenas practicas y a estructurar mejor mis codigos el curso que estare realizando es https://exercism.org/dashboard donde tienen mas lenguajes de programacion y sus buenas practicas 
